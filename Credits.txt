@@ -1,0 +1,49 @@
+Credits
+
+Service: Midi to Mp3 Converter:
+Source: http://onlinesequencer.net/345234
+
+Service: Midi sequencer:
+https://onlinesequencer.net/
+
+Asset: Sprite Sheets
+Source: http://kenney.nl/assets
+
+Asset: Music Unity Tutorial
+Source: https://www.youtube.com/watch?v=Rm9Ev-vtQBU
+
+Asset: Platformer Unity Tutorial
+Source: https://www.udemy.com/unity2dplatformer/learn/v4/content
+
+Asset: c.wav
+Source: https://www.freesound.org/people/ramas26/sounds/95328/
+
+Asset: guitar_c.wav
+Source: https://www.freesound.org/people/Kyster/sounds/117711/
+
+Asset: kalimba_c.wav
+Source: https://www.freesound.org/people/foochie_foochie/sounds/331047/
+
+Asset: c-3-pizzicato-non-vibrato.wav
+Source: https://www.freesound.org/people/Carlos_Vaquero/sounds/153816/
+
+Asset: Text To Voice TTF Tool
+Source: http://www.fromtexttospeech.com/
+
+Asset: beach-9.wav
+Source: https://www.freesound.org/people/thiamhooi/sounds/351746/
+
+Asset: level-up-01.mp3 : No longer in use
+Source: https://www.freesound.org/people/shinephoenixstormcrow/sounds/337049/
+
+Asset: bach-bwv846-breemer.mp3 : No longer in use
+Source: http://www.pianosociety.com/pages/bach_well-tempered_clavier/
+
+Asset: chopin-28-4-stahlbrand.mp3 : No longer in use
+Source:http://www.pianosociety.com/pages/chopinpreludes/
+
+Asset: metronome.wav
+Source: https://www.freesound.org/people/Druminfected/sounds/250552/
+
+Asset: (unused as of 9.25.2016) Owl and Raven sprites 16x16 : No longer in use
+Source: http://opengameart.org/content/owl-and-raven-sprites

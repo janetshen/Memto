@@ -1,0 +1,18 @@
+Levels
+
+Syntax examples for level creation:
+14 = C, 4th Octave
+24 = D, 4th Octave
+...
+56 = G, 6th Octave
+
+Level 1: 14 34 54 15 35 54 15 35
+http://onlinesequencer.net/345213
+
+Level 2: 34 _ 35 35 _ _ _ _ _ 45 _ 35
+http://onlinesequencer.net/345224
+
+Level 3: 54 35 _ _ _ 35 _ _ 45 35 _ _ _ 15 _ _ _ 25 _ _ _ _ _ _ 54 55 _ _ _ _ _ _ _
+http://onlinesequencer.net/345234
+
+Level 4: 14 34 54 64 _ 54 64 34 24 14 _ 14 24 34 24 _ 14 63 _ 54 _ 34 _ 24 14
